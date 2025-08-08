@@ -16,6 +16,8 @@ It includes neural networks, regression models, clustering, probabilistic simula
 - [K-Means](#breans-k-means)
 - [Markov Chains](#breans-markov-chains)
 - [Behavior Trees](#breans-behavior-trees)
+- [Data Analyzer](#Data-Analyzer)
+- [Multi-Step A* Navigator](#Navigator)
 
 ---
 
